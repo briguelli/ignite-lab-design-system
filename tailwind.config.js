@@ -16,7 +16,7 @@ export default {
       transparent: 'transparent',
 
       white: '#ffffff',
-      balck: '#000000',
+      black: '#000000',
 
       gray: {
         900: '#121214',
